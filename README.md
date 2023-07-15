@@ -29,3 +29,4 @@ This course is the first part of a two-part series, covering the fundamentals. Y
 
 # Code Explanations:
 ![Snap (1)](https://github.com/calebwagner/game-hub/assets/81569328/5fbf4b8f-4a01-443b-b2af-05fb7c12ebd8)
+![topic_2](https://github.com/calebwagner/game-hub/assets/81569328/4caed05b-45f4-4ca6-997b-727aba4683a4)
