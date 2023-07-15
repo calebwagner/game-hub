@@ -1,13 +1,10 @@
-# GameHub
+# GameHub Fork from CodeWithMosh
 
-GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. 
-
-This is the project we build in my Ultimate React course. You can find the full course at: https://codewithmosh.com 
+GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. You can find the full course at: https://codewithmosh.com 
 
 ## Getting Started
 
 To get started with GameHub, follow these steps:
-
 
 1. Clone this repository to your local machine.
 2. Run `npm install` to install the required dependencies.
@@ -16,8 +13,7 @@ To get started with GameHub, follow these steps:
 5. Run `npm run dev` to start the web server. 
 
 ## About the Course 
-
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
+This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
 
 - Build front-end apps with React and TypeScript
 - Build reusable function components
@@ -31,8 +27,5 @@ I have designed this course to teach you everything you need to know to become a
 - Write clean code like a pro
 - Apply best practices
 
-
-By the end of this course, you'll have a solid understanding of React and be able to build real-world applications with React and TypeScript.
-
-You can find the full course at: https://codewithmosh.com 
-# game-hub
+# Code Explanations:
+![Snap (1)](https://github.com/calebwagner/game-hub/assets/81569328/5fbf4b8f-4a01-443b-b2af-05fb7c12ebd8)
